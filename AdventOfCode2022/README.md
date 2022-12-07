@@ -10,3 +10,5 @@ Helpers - As I create new helper functions, I stick them in the Helpers file tha
 - **Day 4**: Same, but a little clean-up
 - **Day 5**: Split the helper file into a unique file that gets included each time, so I can make changes to one file and every future day gets the updates
 - **Day 6**: Same, and added a function for splitting strings by a number.
+
+If you're playing this year (or have challenged any other year) feel free to join my leaderboard: `410633-a263531d`
